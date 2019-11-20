@@ -1,0 +1,14 @@
+C:\Users\zcortejo\source\repos\GraphQLDotNet\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\zcortejo\source\repos\GraphQLDotNet\bin\Debug\netcoreapp2.1\GraphQLDotNet.deps.json
+C:\Users\zcortejo\source\repos\GraphQLDotNet\bin\Debug\netcoreapp2.1\GraphQLDotNet.runtimeconfig.json
+C:\Users\zcortejo\source\repos\GraphQLDotNet\bin\Debug\netcoreapp2.1\GraphQLDotNet.runtimeconfig.dev.json
+C:\Users\zcortejo\source\repos\GraphQLDotNet\bin\Debug\netcoreapp2.1\GraphQLDotNet.dll
+C:\Users\zcortejo\source\repos\GraphQLDotNet\obj\Debug\netcoreapp2.1\GraphQLDotNet.RazorAssemblyInfo.cache
+C:\Users\zcortejo\source\repos\GraphQLDotNet\obj\Debug\netcoreapp2.1\GraphQLDotNet.RazorAssemblyInfo.cs
+C:\Users\zcortejo\source\repos\GraphQLDotNet\obj\Debug\netcoreapp2.1\GraphQLDotNet.AssemblyInfoInputs.cache
+C:\Users\zcortejo\source\repos\GraphQLDotNet\obj\Debug\netcoreapp2.1\GraphQLDotNet.AssemblyInfo.cs
+C:\Users\zcortejo\source\repos\GraphQLDotNet\obj\Debug\netcoreapp2.1\GraphQLDotNet.RazorTargetAssemblyInfo.cache
+C:\Users\zcortejo\source\repos\GraphQLDotNet\bin\Debug\netcoreapp2.1\GraphQLDotNet.pdb
+C:\Users\zcortejo\source\repos\GraphQLDotNet\obj\Debug\netcoreapp2.1\GraphQLDotNet.dll
+C:\Users\zcortejo\source\repos\GraphQLDotNet\obj\Debug\netcoreapp2.1\GraphQLDotNet.pdb
+C:\Users\zcortejo\source\repos\GraphQLDotNet\obj\Debug\netcoreapp2.1\GraphQLDotNet.csprojAssemblyReference.cache
