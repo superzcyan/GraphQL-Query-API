@@ -1,0 +1,2 @@
+# graphQL
+Exercise familiarizing GraphQL
