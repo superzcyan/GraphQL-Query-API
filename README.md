@@ -1,2 +1,2 @@
 # graphQL
-Exercise familiarizing GraphQL
+Basic GraphQL Query Application
